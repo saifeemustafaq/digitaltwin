@@ -1,3 +1,11 @@
+# Navigation
+
+| #         | Directory     | Description of the content |
+|--------------|-----------|------------|
+| 1 | [Data Files](https://github.com/saifeemustafaq/digitaltwin/tree/main/Data%20Files) | This files contains all the data models |
+| 2 | [Research Papers accumulated](https://github.com/saifeemustafaq/digitaltwin/tree/main/Research%20Papers%20accumulated) | Contains all the research papers collected for digital twin |
+
+
 All the documentation related to DT available here.
 
 | #         | Document name     | Description/Remark | Link |
