@@ -15,7 +15,7 @@
 | 1 | Progress report presentation | This document contains a presentation which explains week by week task to be done and task that has been completed with timeline | [Link](https://1drv.ms/p/s!AkM0Sty2CM410hr38MtJ9zDoHZL5?e=oiO75S) |
 | 2 | Digital Twin - A Short Summary | This PPT is a short presentation that can be used to give a short overview and slight idea about Digital Twin | [Link](https://1drv.ms/p/s!AkM0Sty2CM410hw4TwdSBxBl61bx?e=9OlbkP) |
 | 3 | Digital Twin - a brief presentation | This presentation has more detailed idea about the DT concepts | [Link](https://1drv.ms/p/s!AkM0Sty2CM410h1X-eF9vIT9_RT7?e=dfV6ju) |
-| 4 |       |         |        |
+| 4 | Deploying Digital Twin Data in Microsoft Azure | Started writing a research paper (draft) | [Link](https://1drv.ms/w/s!AkM0Sty2CM410iM8YYpCS-xdeJfP?e=iYgHnN) |
 | 5 |       |         |        |
 | 6 |       |         |        |
 | 7 |       |         |        |
